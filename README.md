@@ -8,4 +8,4 @@ This script generates a random nuber by applying a Hadamard transform to qubits,
 - I recommend making your own Python env, activating it, then:
 - `pip install qiskit` and
 - `pip install ibm-qiskit-runtime`
-- Finally: `python veryrandom.py`
+- Finally: `python3 veryrandom.py`
